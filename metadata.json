@@ -1,0 +1,7 @@
+{
+  "name": "AI Traffic Sign Recognition",
+  "description": "An application that uses AI to recognize traffic signs from images, videos, or a live webcam feed, providing information about each sign.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
